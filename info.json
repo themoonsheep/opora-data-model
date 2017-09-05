@@ -1,0 +1,8 @@
+{
+    "identifier": "oporadatamodel",
+    "name": "OporaDataModel",
+    "author": "georges@opendatakosovo.org",
+    "license": "AGPLv3",
+    "description": "The data model for the Opora Project defined with WTForms",
+    "version": "0.0.1"
+}
